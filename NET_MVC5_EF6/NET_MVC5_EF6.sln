@@ -5,6 +5,14 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET_MVC5_EF6_web", "NET_MVC5_EF6_web\NET_MVC5_EF6_web.csproj", "{786A4BFB-8D18-4F17-B44E-0399E0700347}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.", "1.", "{7532FB05-2EEB-43F2-8AA0-5CE1E8E3CE03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Core", "2.Core", "{B2577067-0F8B-44F2-8F11-9A3AB390CBCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Service", "3.Service", "{4C82D222-F58C-4B09-8D03-84FAE812CFB2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.", "4.", "{4DD5666F-3150-46CF-A882-88996EA9AFE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
